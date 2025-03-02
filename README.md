@@ -26,7 +26,15 @@ Version 1.0
 Usage & Working
 -------
 
-> python3 attack-v1.py -t www.luveedu.com -p 443 -r 100
+```
+python3 attack-v1.py -t www.luveedu.com -p 443 -r 100
+```
+
+-r ( Means the total number of concurrent threads )
+
+-p ( Means the Target Port, 443 best.)
+
+-t ( Means the Target Site eg. www.luveedu.com )
 
 ------
 How It works
